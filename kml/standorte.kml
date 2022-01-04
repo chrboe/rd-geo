@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name><![CDATA[Standorte]]></name>
+    <TimeStamp>
+      <when>2020-05-08T09:05:53+00:00</when>
+    </TimeStamp>
+    <description><![CDATA[<br/><p>Gps Koordinaten der RK Standorte NÖ-Weit </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>ASB Altlengbach</name>
+        <Point><coordinates>15.93097,48.15333</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Dunkelsteinerwald</name>
+        <Point><coordinates>15.47322,48.30768</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Ebreichsdorf</name>
+        <Point><coordinates>16.40118,47.96227</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Eichgraben</name>
+        <Point><coordinates>15.990377,48.175736</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Frankenfels</name>
+        <Point><coordinates>15.322851,47.980865</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Gaaden</name>
+        <Point><coordinates>16.206999,48.056015</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Groß Gerungs</name>
+        <Point><coordinates>14.956032,48.572271</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Günselsdorf</name>
+        <Point><coordinates>16.257585,47.944314</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Loosdorf</name>
+        <Point><coordinates>15.389544,48.204640</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Persenbeug</name>
+        <Point><coordinates>15.095369,48.190211</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Purkersdorf</name>
+        <Point><coordinates>16.182459,48.206927</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Pöchlarn/Neuda</name>
+        <Point><coordinates>15.188476,48.205227</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Rabenstein</name>
+        <Point><coordinates>15.463660,48.061339</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Sankt Georgen</name>
+        <Point><coordinates>15.619288,48.135284</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB St. Pölten</name>
+        <Point><coordinates>15.634310,48.216180</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Ternitz</name>
+        <Point><coordinates>16.019288,47.706972</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Traisen</name>
+        <Point><coordinates>15.608742,48.041699</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Gölsental</name>
+        <Point><coordinates>15.660849,48.046409</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Traiskirchen-Trumau</name>
+        <Point><coordinates>16.298684,48.020813</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Traismauer</name>
+        <Point><coordinates>15.744982,48.351441</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Wiener Neustadt</name>
+        <Point><coordinates>16.248307,47.819367</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ASB Wilhelmsburg</name>
+        <Point><coordinates>15.599474,48.100971</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>ASB</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>JUH Orth an der Donau</name>
+        <Point><coordinates>16.702363,48.144357</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>JUH</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Ziersdorf</name>
+        <Point><coordinates>15.93306,48.52846,227.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Leobendorf</name>
+        <Point><coordinates>16.20985,47.92858,267.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Alland</name>
+        <Point><coordinates>16.0773,48.05742,325.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Seibersdorf</name>
+        <Point><coordinates>16.51154,47.97583,182.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Oberwaltersdorf</name>
+        <Point><coordinates>16.31842,47.98076,213</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RK Weißenbach</name>
+        <Point><coordinates>16.04052,47.98204,356.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ebenfurth (Dienststelle)</name>
+        <Point><coordinates>16.37391,47.87781,228.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Deutsch Brodersdorf (Dienststelle)</name>
+        <Point><coordinates>16.47693,47.93893,196.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Moosbrunn (Dienststelle)</name>
+        <Point><coordinates>16.45903,48.01882,184.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Engelhartstetten (Dienststelle)</name>
+        <Point><coordinates>16.88087,48.18226,144.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Türnitz (Dienststelle)</name>
+        <Point><coordinates>15.49058,47.93015,472.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Biedermannsdorf (Dienststelle)</name>
+        <Point><coordinates>16.34236,48.0834,186.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Guntramsdorf (Dienststelle)</name>
+        <Point><coordinates>16.31701,48.04647,187</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wr. Neudorf (Dienststelle)</name>
+        <Point><coordinates>16.32263,48.08448,198.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vösendorf (Dienststelle)</name>
+        <Point><coordinates>16.34277,48.12092,192.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kaltenleutgeben (Dienststelle)</name>
+        <Point><coordinates>16.20108,48.11773,334.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Breitenfurt bei Wien (Dienststelle)</name>
+        <Point><coordinates>16.19444,48.1351,284.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Grünbach/Höflein (Dienststelle)</name>
+        <Point><coordinates>16.03164,47.79469,440.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Payerbach-Reichenau (Dienststelle)</name>
+        <Point><coordinates>15.859,47.6927,475.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kapelln (Dienststelle)</name>
+        <Point><coordinates>15.75522,48.25809,222.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kematen (Dienststelle)</name>
+        <Point><coordinates>14.77247,48.03218,325.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Himberg (Dienststelle)</name>
+        <Point><coordinates>16.43757,48.08432,170.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Leopoldsdorf (Dienststelle)</name>
+        <Point><coordinates>16.39782,48.11167,187.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Betriebsambulanz OMV Schwechat (Dienststelle)</name>
+        <Point><coordinates>16.49111,48.14424,159.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Annaberg (Dienststelle)</name>
+        <Point><coordinates>15.3776,47.87137,975.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hohenberg (Dienststelle)</name>
+        <Point><coordinates>15.61936,47.90532,514.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Amstetten (Bezirksstelle)</name>
+        <Point><coordinates>14.88268,48.12749,286.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Valentin (Bezirksstelle)</name>
+        <Point><coordinates>14.52666,48.17688,267.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Haag (Bezirksstelle)</name>
+        <Point><coordinates>14.57195,48.103,359.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Peter in der Au (Bezirksstelle)</name>
+        <Point><coordinates>14.617370,48.041339,356.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Baden (Bezirksstelle)</name>
+        <Point><coordinates>16.25389,48.00155,220</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Berndorf / St.Veit (Bezirksstelle)</name>
+        <Point><coordinates>16.13957,47.93944,302.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bad Vöslau (Bezirksstelle)</name>
+        <Point><coordinates>16.22176,47.97279,245.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Landegg (Dienststelle)</name>
+        <Point><coordinates>16.38563,47.90981,217</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bruck an der Leitha (Bezirksstelle)</name>
+        <Point><coordinates>16.78209,48.0301,153.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Götzendorf (Dienststelle)</name>
+        <Point><coordinates>16.58012,48.01277,171.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hainburg (Bezirksstelle)</name>
+        <Point><coordinates>16.96048,48.1435,176.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gänserndorf (Bezirksstelle)</name>
+        <Point><coordinates>16.72811,48.34521,152.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Deutsch-Wagram (Ortsstelle)</name>
+        <Point><coordinates>16.55927,48.29571,158.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Groß-Enzersdorf (Bezirksstelle)</name>
+        <Point><coordinates>16.54899,48.20579,156.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Eckartsau (Dienststelle)</name>
+        <Point><coordinates>16.78846,48.14053,145.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Leopoldsdorf (Dienststelle)</name>
+        <Point><coordinates>16.7006,48.23977,151.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Orth an der Donau (Dienststelle)</name>
+        <Point><coordinates>16.71468,48.14868,148.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Zistersdorf (Bezirksstelle)</name>
+        <Point><coordinates>16.75339,48.54905,199.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hohenau an der March (Ortsstelle)</name>
+        <Point><coordinates>16.90519,48.60637,151.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Marchegg (Bezirksstelle)</name>
+        <Point><coordinates>16.90944,48.28036,142.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Andrä-Wördern (Dienststelle)</name>
+        <Point><coordinates>16.20818,48.33076,174.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Heidenreichstein (Ortsstelle)</name>
+        <Point><coordinates>15.12365,48.8683,566.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Schrems (Ortsstelle)</name>
+        <Point><coordinates>15.0611,48.79249,533.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gmünd (Bezirksstelle)</name>
+        <Point><coordinates>14.97734,48.76679,489.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Litschau (Bezirksstelle)</name>
+        <Point><coordinates>15.04809,48.94772,546.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Weitra (Bezirksstelle)</name>
+        <Point><coordinates>14.89722,48.70234,565.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Klosterneuburg (Bezirksstelle)</name>
+        <Point><coordinates>16.32488,48.30818,162</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Haugsdorf (Ortsstelle)</name>
+        <Point><coordinates>16.08091,48.70605,202.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Retz (Bezirksstelle)</name>
+        <Point><coordinates>15.95156,48.75486,256.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Horn (Bezirksstelle)</name>
+        <Point><coordinates>15.66016,48.66777,310.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Geras (Ortsstelle)</name>
+        <Point><coordinates>15.67781,48.79664,470.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Eggenburg (Ortsstelle)</name>
+        <Point><coordinates>15.82114,48.64577,308.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gars (Ortsstelle)</name>
+        <Point><coordinates>15.66147,48.59781,259.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Korneuburg (Bezirksstelle)</name>
+        <Point><coordinates>16.33621,48.33885,167.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ernstbrunn (Ortsstelle)</name>
+        <Point><coordinates>16.36716,48.52788,274.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stockerau (Ortsstelle)</name>
+        <Point><coordinates>16.20501,48.38564,173.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kleinzell (Dienststelle)</name>
+        <Point><coordinates>15.74075,47.98397,459</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Langenlois (Bezirksstelle)</name>
+        <Point><coordinates>15.68453,48.48059,216</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lilienfeld (Bezirksstelle)</name>
+        <Point><coordinates>15.59823,48.01445,371.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hainfeld (Bezirksstelle)</name>
+        <Point><coordinates>15.77454,48.0321,423.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rohrbach an der Gölsen (Ortsstelle)</name>
+        <Point><coordinates>15.74148,48.04616,398.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kaumberg (Ortsstelle)</name>
+        <Point><coordinates>15.90646,48.02528,474.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Aegyd (Bezirksstelle)</name>
+        <Point><coordinates>15.56246,47.85424,589.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Melk (Bezirksstelle)</name>
+        <Point><coordinates>15.34682,48.22762,252.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kilb (Ortsstelle)</name>
+        <Point><coordinates>15.40711,48.10221,299.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Leonhard-Ruprechtshofen (Ortsstelle)</name>
+        <Point><coordinates>15.28521,48.13786,240.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Texing (Ortsstelle)</name>
+        <Point><coordinates>15.32531,48.04733,366.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ybbs (Bezirksstelle)</name>
+        <Point><coordinates>15.08608,48.16547,217.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blindenmarkt (Ortsstelle)</name>
+        <Point><coordinates>14.97982,48.1265,250</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pöggstall (Bezirksstelle)</name>
+        <Point><coordinates>15.19831,48.31572,452.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Münichreith am Ostrong (Ortsstelle)</name>
+        <Point><coordinates>15.13322,48.26559,671.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Oswald (Ortsstelle)</name>
+        <Point><coordinates>15.03893,48.26965,664.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Yspertal (Ortsstelle)</name>
+        <Point><coordinates>15.06738,48.28486,491.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mistelbach (Bezirksstelle)</name>
+        <Point><coordinates>16.58115,48.56636,202.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bernhardsthal (Ortsstelle)</name>
+        <Point><coordinates>16.86142,48.69473,165</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Drasenhofen (Ortsstelle)</name>
+        <Point><coordinates>16.64972,48.75606,207.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gerasdorf (Ortsstelle)</name>
+        <Point><coordinates>16.46958,48.29136,161</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Großkrut (Ortsstelle)</name>
+        <Point><coordinates>16.71992,48.64404,176.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kreuzstetten (Ortsstelle)</name>
+        <Point><coordinates>16.46915,48.4839,239.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Poysdorf (Ortsstelle)</name>
+        <Point><coordinates>16.63048,48.6658,203.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wolkersdorf (Ortsstelle)</name>
+        <Point><coordinates>16.51992,48.37953,170.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Laa an der Thaya (Bezirksstelle)</name>
+        <Point><coordinates>16.3963,48.71776,185</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mödling (Bezirksstelle)</name>
+        <Point><coordinates>16.28437,48.08122,225.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Perchtoldsdorf (Ortsstelle)</name>
+        <Point><coordinates>16.26903,48.11829,250.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brunn am Gebirge (Bezirksstelle)</name>
+        <Point><coordinates>16.28587,48.11119,223.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Neunkirchen (Bezirksstelle)</name>
+        <Point><coordinates>16.09498,47.7253,361</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pittental (Ortsstelle)</name>
+        <Point><coordinates>16.16338,47.70057,337.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Puchberg (Ortsstelle)</name>
+        <Point><coordinates>15.91333,47.78953,580</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aspang (Ortsstelle)</name>
+        <Point><coordinates>16.09157,47.55848,490.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gloggnitz (Bezirksstelle)</name>
+        <Point><coordinates>15.92178,47.66295,484</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Schwarzau im Gebirge (Ortsstelle)</name>
+        <Point><coordinates>15.70638,47.80726,609.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Purkersdorf-Gablitz (Bezirksstelle)</name>
+        <Point><coordinates>16.16952,48.20108,250.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Neulengbach (Bezirksstelle)</name>
+        <Point><coordinates>15.90029,48.1905,232.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Herzogenburg (Bezirksstelle)</name>
+        <Point><coordinates>15.69591,48.27789,229.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Oberwölbling (Ortsstelle)</name>
+        <Point><coordinates>15.5916,48.31949,339.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Scheibbs (Bezirksstelle)</name>
+        <Point><coordinates>15.16099,48.00871,330.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gaming (Dienststelle)</name>
+        <Point><coordinates>15.0911,47.92776,431.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Steinakirchen (Dienststelle)</name>
+        <Point><coordinates>15.04808,48.07128,317</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wieselburg (Dienststelle)</name>
+        <Point><coordinates>15.13704,48.13868,260.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tulln (Bezirksstelle)</name>
+        <Point><coordinates>16.06458,48.31691,178.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kirchberg am Wagram (Ortsstelle)</name>
+        <Point><coordinates>15.89639,48.43272,191.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sieghartskirchen (Ortsstelle)</name>
+        <Point><coordinates>16.01654,48.25343,198.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Atzenbrugg-Heiligeneich (Bezirksstelle)</name>
+        <Point><coordinates>15.89266,48.29996,200</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Groß Weikersdorf (Bezirksstelle)</name>
+        <Point><coordinates>15.98118,48.47195,205.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Waidhofen an der Thaya (Bezirksstelle)</name>
+        <Point><coordinates>15.28467,48.81211,504.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kirchschlag (Bezirksstelle)</name>
+        <Point><coordinates>16.27845,47.49289,429.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bad Schönau (Ortsstelle)</name>
+        <Point><coordinates>16.23545,47.49637,472.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hochneukirchen (Ortsstelle)</name>
+        <Point><coordinates>16.19994,47.45573,754.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hollenthon (Ortsstelle)</name>
+        <Point><coordinates>16.26027,47.58565,639.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krumbach (Ortsstelle)</name>
+        <Point><coordinates>16.19376,47.51693,519.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pernitz (Bezirksstelle)</name>
+        <Point><coordinates>15.95662,47.89789,430.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rohr im Gebirge (Ortsstelle)</name>
+        <Point><coordinates>15.74078,47.89395,682.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sollenau-Felixdorf (Bezirksstelle)</name>
+        <Point><coordinates>16.25057,47.88758,275.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Zwettl (Bezirksstelle)</name>
+        <Point><coordinates>15.16358,48.60032,569.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Arbesbach (Ortsstelle)</name>
+        <Point><coordinates>14.9556,48.49421,849.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Langschlag (Ortsstelle)</name>
+        <Point><coordinates>14.88655,48.5743,748.7</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Martinsberg (Ortsstelle)</name>
+        <Point><coordinates>15.15848,48.37735,821.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Allentsteig (Bezirksstelle)</name>
+        <Point><coordinates>15.32979,48.69684,548.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St. Pölten (Bezirksstelle)</name>
+        <Point><coordinates>15.61925,48.19933,274.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Böheimkirchen (Ortsstelle)</name>
+        <Point><coordinates>15.75862,48.19839,234.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hofstetten-Grünau (Ortsstelle)</name>
+        <Point><coordinates>15.50855,48.0975,318.3</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Karlstetten-Neidling (Ortsstelle)</name>
+        <Point><coordinates>15.56439,48.25859,376.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kirchberg an der Pielach (Ortsstelle)</name>
+        <Point><coordinates>15.43212,48.02675,367.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ober-Grafendorf (Ortsstelle)</name>
+        <Point><coordinates>15.54401,48.14788,281.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Prinzersdorf (Ortsstelle)</name>
+        <Point><coordinates>15.51182,48.2011,252.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pyhra (Ortsstelle)</name>
+        <Point><coordinates>15.68575,48.15811,302.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wr. Neustadt (Bezirksstelle)</name>
+        <Point><coordinates>16.24827,47.81827,261.2</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bad Erlach (Ortsstelle)</name>
+        <Point><coordinates>16.21194,47.73366,311.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hohe Wand-Stollhof/Maiersdorf (Ortsstelle)</name>
+        <Point><coordinates>16.04702,47.83089,885</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Piesting (Ortsstelle)</name>
+        <Point><coordinates>16.1248,47.87317,335.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wiesmath (Ortsstelle)</name>
+        <Point><coordinates>16.28801,47.61566,694.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Krems (Bezirksstelle)</name>
+        <Point><coordinates>15.61304,48.4128,197.1</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gföhl (Ortsstelle)</name>
+        <Point><coordinates>15.49015,48.51607,583.5</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Spitz an der Donau (Ortsstelle)</name>
+        <Point><coordinates>15.40079,48.36002,221.9</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Waidhofen an der Ybbs (Bezirksstelle)</name>
+        <Point><coordinates>14.78946,47.94998,369.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hollenstein (Ortsstelle)</name>
+        <Point><coordinates>14.77126,47.79768,471.6</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Schwechat (Bezirksstelle)</name>
+        <Point><coordinates>16.48653,48.13981,172</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lassee (Dienststelle)</name>
+        <Point><coordinates>16.82278,48.22605,146.4</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sitzenberg-Reidling (Dienststelle)</name>
+        <Point><coordinates>15.81773,48.31937,195.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hollabrunn (Bezirksstelle)</name>
+        <Point><coordinates>16.092972,48.563636,236.8</coordinates></Point>
+        <ExtendedData><Data name="organization"><value>RK</value></Data></ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

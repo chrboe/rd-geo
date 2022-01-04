@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="de-AT">
+<head>
+    <meta charset="utf-8"/>
+    <title>Rettungsdienstabdeckung Niederösterreich</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+          integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+            crossorigin="">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+    <script src="coords.js"></script>
+    <script src="isochrones.js"></script>
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        .legend {
+            padding: 6px 8px;
+            font: 14px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+            /*border-radius: 5px;*/
+            line-height: 24px;
+            color: #555;
+        }
+
+        .info {
+            max-width: 50%;
+        }
+
+        .legend h4 {
+            text-align: center;
+            font-size: 16px;
+            margin: 2px 12px 8px;
+            color: #777;
+        }
+
+        .legend span {
+            position: relative;
+            bottom: 3px;
+        }
+
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin: 0 8px 0 0;
+            opacity: 0.7;
+        }
+
+        .legend i.icon {
+            background-size: 18px;
+            background-color: rgba(255, 255, 255, 1);
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+    var minPoint = [47.45573, 14.52666];
+    var maxPoint = [48.94772, 16.96048];
+
+    var icons = {
+        "RK": L.icon({
+            iconUrl: 'markers/rk-marker.png',
+            iconSize: [18, 28],
+            iconAnchor: [9, 28],
+        }),
+        "ASB": L.icon({
+            iconUrl: 'markers/asb-marker.png',
+            iconSize: [18, 28],
+        }),
+        "JUH": L.icon({
+            iconUrl: 'markers/juh-marker.png',
+            iconSize: [18, 28],
+        }),
+    };
+
+    var mymap = L.map('map').fitBounds([minPoint, maxPoint]);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+    }).addTo(mymap);
+
+    departments.forEach((dep) => {
+        L.marker(dep.coords, {icon: icons[dep.organization]}).bindTooltip(dep.name).addTo(mymap);
+    });
+
+    ['purple', 'red', 'orange', 'green'].forEach((color) => {
+        isochrones[color].forEach((iso) => {
+            console.log("adding polygon", iso)
+            L.polygon(iso, {color: color, fillColor: color, opacity: 0.2, fillOpacity: 0.3}).addTo(mymap);
+        });
+    });
+    L.polygon(vieBorderPoly, {color: 'blue', fillColor: '#000000', weight: 1, opacity: 0.5}).addTo(mymap);
+    L.polygon(noeBorderPoly, {color: 'blue', fillColor: '#000000', weight: 1, opacity: 0.5}).addTo(mymap);
+
+    const legend = L.control({position: 'bottomleft'});
+    legend.onAdd = function () {
+        const div = L.DomUtil.create("div", "legend");
+        div.innerHTML += "<h4>Legende</h4>";
+        div.innerHTML += '<i style="background: green"></i><span>&lt;10 min</span><br>';
+        div.innerHTML += '<i style="background: orange"></i><span>10&ndash;15 min</span><br>';
+        div.innerHTML += '<i style="background: red"></i><span>15&ndash;20 min</span><br>';
+        div.innerHTML += '<i style="background: purple"></i><span>&gt;20 min (oder nicht erreichbar)</span><br>';
+        return div;
+    };
+    legend.addTo(mymap);
+
+    const info = L.control();
+    info.onAdd = function () {
+        const div = L.DomUtil.create("div", "legend");
+        L.DomUtil.addClass(div, "info");
+        div.innerHTML += "<h4>Best-Case-Eintreffzeit des ersten Rettungsmittels am Notfallort</h4>";
+        div.innerHTML += "<ul>";
+        div.innerHTML += "<li>Es wird nur die reine Fahrtzeit berücksichtigt, keine Ausrückzeit</li>";
+        div.innerHTML += "<li>Die Zeitersparnis durch die Verwendung von Sondersignalen wird vernachlässigt</li>";
+        div.innerHTML += "<li>&quot;Best-Case&quot; bedeutet, dass das nächstgelegene Rettungsmittel verfügbar ist (d.h. nicht außer Betrieb, nicht gebunden, ...)</li>";
+        div.innerHTML += "</ul>";
+        div.innerHTML += "<br />"
+        div.innerHTML += "<a href='https://github.com/chrboe/rd-geo' style='text-decoration: none'><img src='GitHub-Mark-32px.png' style='height: 14px; display: inline-block; vertical-align: text-top;'/> Source auf GitHub</a>"
+        return div;
+    };
+    info.addTo(mymap);
+</script>
+</body>
+</html>
